@@ -1,0 +1,3602 @@
+[
+  {
+    "year": 2007,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 11448,
+    "percentile_25": 3148,
+    "percentile_75": 35775,
+    "percentile_99": 572400
+  },
+  {
+    "year": 2007,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 24327,
+    "percentile_25": 4293,
+    "percentile_75": 114480,
+    "percentile_99": 4293002
+  },
+  {
+    "year": 2007,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 80136,
+    "percentile_25": 22896,
+    "percentile_75": 313389,
+    "percentile_99": 6868803
+  },
+  {
+    "year": 2007,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 64395,
+    "percentile_25": 15741,
+    "percentile_75": 198909,
+    "percentile_99": 2139346
+  },
+  {
+    "year": 2007,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 317281,
+    "percentile_25": 61676,
+    "percentile_75": 761292,
+    "percentile_99": 12536338
+  },
+  {
+    "year": 2007,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 48654,
+    "percentile_25": 10733,
+    "percentile_75": 178303,
+    "percentile_99": 4584711
+  },
+  {
+    "year": 2007,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 4293,
+    "percentile_25": 1145,
+    "percentile_75": 12664,
+    "percentile_99": 87434
+  },
+  {
+    "year": 2007,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 153117,
+    "percentile_25": 80136,
+    "percentile_75": 274752,
+    "percentile_99": 1159111
+  },
+  {
+    "year": 2007,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 17172,
+    "percentile_25": 7155,
+    "percentile_75": 37635,
+    "percentile_99": 161703
+  },
+  {
+    "year": 2007,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 18603,
+    "percentile_25": 7727,
+    "percentile_75": 35632,
+    "percentile_99": 178875
+  },
+  {
+    "year": 2007,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 7155,
+    "percentile_25": 2862,
+    "percentile_75": 14310,
+    "percentile_99": 236115
+  },
+  {
+    "year": 2007,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 96306,
+    "percentile_25": 19462,
+    "percentile_75": 236584,
+    "percentile_99": 1380916
+  },
+  {
+    "year": 2007,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 7155,
+    "percentile_25": 2147,
+    "percentile_75": 22896,
+    "percentile_99": 357750
+  },
+  {
+    "year": 2007,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 11448,
+    "percentile_25": 1431,
+    "percentile_75": 42930,
+    "percentile_99": 164565
+  },
+  {
+    "year": 2007,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 31482,
+    "percentile_25": 14310,
+    "percentile_75": 71550,
+    "percentile_99": 493695
+  },
+  {
+    "year": 2007,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 37206,
+    "percentile_25": 10303,
+    "percentile_75": 91584,
+    "percentile_99": 758430
+  },
+  {
+    "year": 2007,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 101529,
+    "percentile_25": 10589,
+    "percentile_75": 396359,
+    "percentile_99": 1924410
+  },
+  {
+    "year": 2007,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 21465,
+    "percentile_25": 5366,
+    "percentile_75": 64395,
+    "percentile_99": 730955
+  },
+  {
+    "year": 2007,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 2862,
+    "percentile_25": 1116,
+    "percentile_75": 8214,
+    "percentile_99": 67257
+  },
+  {
+    "year": 2007,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 138807,
+    "percentile_25": 71550,
+    "percentile_75": 240408,
+    "percentile_99": 848583
+  },
+  {
+    "year": 2007,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 13165,
+    "percentile_25": 6296,
+    "percentile_75": 34916,
+    "percentile_99": 157410
+  },
+  {
+    "year": 2007,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 14310,
+    "percentile_25": 5152,
+    "percentile_75": 32913,
+    "percentile_99": 97022
+  },
+  {
+    "year": 2007,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 4293,
+    "percentile_25": 1574,
+    "percentile_75": 10017,
+    "percentile_99": 57240
+  },
+  {
+    "year": 2007,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 43502,
+    "percentile_25": 8729,
+    "percentile_75": 181737,
+    "percentile_99": 857169
+  },
+  {
+    "year": 2007,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 6440,
+    "percentile_25": 987,
+    "percentile_75": 21465,
+    "percentile_99": 243270
+  },
+  {
+    "year": 2007,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 12879,
+    "percentile_25": 3148,
+    "percentile_75": 71550,
+    "percentile_99": 715500
+  },
+  {
+    "year": 2007,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 42930,
+    "percentile_25": 5009,
+    "percentile_75": 114480,
+    "percentile_99": 1216351
+  },
+  {
+    "year": 2007,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 24327,
+    "percentile_25": 7155,
+    "percentile_75": 71550,
+    "percentile_99": 844290
+  },
+  {
+    "year": 2007,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 101057,
+    "percentile_25": 12593,
+    "percentile_75": 440176,
+    "percentile_99": 3122300
+  },
+  {
+    "year": 2007,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 16299,
+    "percentile_25": 4293,
+    "percentile_75": 54378,
+    "percentile_99": 844290
+  },
+  {
+    "year": 2007,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 3678,
+    "percentile_25": 916,
+    "percentile_75": 10017,
+    "percentile_99": 72981
+  },
+  {
+    "year": 2007,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 164565,
+    "percentile_25": 100170,
+    "percentile_75": 286200,
+    "percentile_99": 1139077
+  },
+  {
+    "year": 2007,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 14310,
+    "percentile_25": 8014,
+    "percentile_75": 34344,
+    "percentile_99": 144531
+  },
+  {
+    "year": 2007,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 18889,
+    "percentile_25": 5867,
+    "percentile_75": 35775,
+    "percentile_99": 130221
+  },
+  {
+    "year": 2007,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 7584,
+    "percentile_25": 5724,
+    "percentile_75": 12879,
+    "percentile_99": 236115
+  },
+  {
+    "year": 2007,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 76415,
+    "percentile_25": 14024,
+    "percentile_75": 210357,
+    "percentile_99": 1607014
+  },
+  {
+    "year": 2007,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 10017,
+    "percentile_25": 2862,
+    "percentile_75": 52947,
+    "percentile_99": 286200
+  },
+  {
+    "year": 2007,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 9588,
+    "percentile_25": 4293,
+    "percentile_75": 42930,
+    "percentile_99": 1717201
+  },
+  {
+    "year": 2007,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 52947,
+    "percentile_25": 14310,
+    "percentile_75": 171720,
+    "percentile_99": 1443880
+  },
+  {
+    "year": 2007,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 45220,
+    "percentile_25": 12164,
+    "percentile_75": 137376,
+    "percentile_99": 1094716
+  },
+  {
+    "year": 2007,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 187032,
+    "percentile_25": 27475,
+    "percentile_75": 653824,
+    "percentile_99": 11773844
+  },
+  {
+    "year": 2007,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 28620,
+    "percentile_25": 7513,
+    "percentile_75": 120204,
+    "percentile_99": 1653092
+  },
+  {
+    "year": 2007,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 3578,
+    "percentile_25": 1288,
+    "percentile_75": 10733,
+    "percentile_99": 71550
+  },
+  {
+    "year": 2007,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 184599,
+    "percentile_25": 97308,
+    "percentile_75": 303372,
+    "percentile_99": 1161973
+  },
+  {
+    "year": 2007,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 14310,
+    "percentile_25": 7871,
+    "percentile_75": 35775,
+    "percentile_99": 160272
+  },
+  {
+    "year": 2007,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 18603,
+    "percentile_25": 7727,
+    "percentile_75": 34344,
+    "percentile_99": 217512
+  },
+  {
+    "year": 2007,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 7155,
+    "percentile_25": 3005,
+    "percentile_75": 17172,
+    "percentile_99": 143100
+  },
+  {
+    "year": 2007,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 74698,
+    "percentile_25": 14682,
+    "percentile_75": 253802,
+    "percentile_99": 1617031
+  },
+  {
+    "year": 2007,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 12879,
+    "percentile_25": 4007,
+    "percentile_75": 38637,
+    "percentile_99": 643950
+  },
+  {
+    "year": 2007,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 27189,
+    "percentile_25": 4293,
+    "percentile_75": 138807,
+    "percentile_99": 5008502
+  },
+  {
+    "year": 2007,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 91584,
+    "percentile_25": 28620,
+    "percentile_75": 339863,
+    "percentile_99": 6940353
+  },
+  {
+    "year": 2007,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 75843,
+    "percentile_25": 18889,
+    "percentile_75": 228960,
+    "percentile_99": 2437710
+  },
+  {
+    "year": 2007,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 389234,
+    "percentile_25": 129048,
+    "percentile_75": 865326,
+    "percentile_99": 14275820
+  },
+  {
+    "year": 2007,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 57240,
+    "percentile_25": 13738,
+    "percentile_75": 212504,
+    "percentile_99": 5384855
+  },
+  {
+    "year": 2007,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 4722,
+    "percentile_25": 1288,
+    "percentile_75": 14310,
+    "percentile_99": 97308
+  },
+  {
+    "year": 2007,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 151686,
+    "percentile_25": 78705,
+    "percentile_75": 270459,
+    "percentile_99": 1216351
+  },
+  {
+    "year": 2007,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 18603,
+    "percentile_25": 8443,
+    "percentile_75": 42930,
+    "percentile_99": 214650
+  },
+  {
+    "year": 2007,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 18603,
+    "percentile_25": 8586,
+    "percentile_75": 35775,
+    "percentile_99": 183168
+  },
+  {
+    "year": 2007,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 7155,
+    "percentile_25": 2862,
+    "percentile_75": 15741,
+    "percentile_99": 286200
+  },
+  {
+    "year": 2007,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 109042,
+    "percentile_25": 25758,
+    "percentile_75": 249567,
+    "percentile_99": 1391934
+  },
+  {
+    "year": 2010,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 9970,
+    "percentile_25": 2732,
+    "percentile_75": 34145,
+    "percentile_99": 409738
+  },
+  {
+    "year": 2010,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 27316,
+    "percentile_25": 5463,
+    "percentile_75": 122921,
+    "percentile_99": 4643695
+  },
+  {
+    "year": 2010,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 109263,
+    "percentile_25": 27316,
+    "percentile_75": 355106,
+    "percentile_99": 6146067
+  },
+  {
+    "year": 2010,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 60095,
+    "percentile_25": 16390,
+    "percentile_75": 214429,
+    "percentile_99": 2472085
+  },
+  {
+    "year": 2010,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 254584,
+    "percentile_25": 47393,
+    "percentile_75": 585515,
+    "percentile_99": 10257513
+  },
+  {
+    "year": 2010,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 39608,
+    "percentile_25": 7681,
+    "percentile_75": 170724,
+    "percentile_99": 4001773
+  },
+  {
+    "year": 2010,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 3551,
+    "percentile_25": 1065,
+    "percentile_75": 11473,
+    "percentile_99": 77850
+  },
+  {
+    "year": 2010,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 148871,
+    "percentile_25": 79216,
+    "percentile_75": 259501,
+    "percentile_99": 1256529
+  },
+  {
+    "year": 2010,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 17755,
+    "percentile_25": 8195,
+    "percentile_75": 39608,
+    "percentile_99": 290914
+  },
+  {
+    "year": 2010,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 17346,
+    "percentile_25": 6829,
+    "percentile_75": 34404,
+    "percentile_99": 235230
+  },
+  {
+    "year": 2010,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 6146,
+    "percentile_25": 2185,
+    "percentile_75": 15024,
+    "percentile_99": 218527
+  },
+  {
+    "year": 2010,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 96425,
+    "percentile_25": 19121,
+    "percentile_75": 228087,
+    "percentile_99": 1365793
+  },
+  {
+    "year": 2010,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 4917,
+    "percentile_25": 1366,
+    "percentile_75": 17755,
+    "percentile_99": 136579
+  },
+  {
+    "year": 2010,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 10243,
+    "percentile_25": 1776,
+    "percentile_75": 34145,
+    "percentile_99": 2185268
+  },
+  {
+    "year": 2010,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 40974,
+    "percentile_25": 13658,
+    "percentile_75": 75119,
+    "percentile_99": 3687640
+  },
+  {
+    "year": 2010,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 24584,
+    "percentile_25": 8058,
+    "percentile_75": 69655,
+    "percentile_99": 1186874
+  },
+  {
+    "year": 2010,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 84816,
+    "percentile_25": 13071,
+    "percentile_75": 288455,
+    "percentile_99": 2600770
+  },
+  {
+    "year": 2010,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 12292,
+    "percentile_25": 3278,
+    "percentile_75": 44661,
+    "percentile_99": 624850
+  },
+  {
+    "year": 2010,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 2595,
+    "percentile_25": 683,
+    "percentile_75": 7580,
+    "percentile_99": 47803
+  },
+  {
+    "year": 2010,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 116092,
+    "percentile_25": 61461,
+    "percentile_75": 174821,
+    "percentile_99": 723870
+  },
+  {
+    "year": 2010,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 17755,
+    "percentile_25": 8195,
+    "percentile_75": 40974,
+    "percentile_99": 361935
+  },
+  {
+    "year": 2010,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 15707,
+    "percentile_25": 6283,
+    "percentile_75": 36876,
+    "percentile_99": 239014
+  },
+  {
+    "year": 2010,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 2868,
+    "percentile_25": 1366,
+    "percentile_75": 8195,
+    "percentile_99": 54632
+  },
+  {
+    "year": 2010,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 42476,
+    "percentile_25": 7840,
+    "percentile_75": 137945,
+    "percentile_99": 738348
+  },
+  {
+    "year": 2010,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 6829,
+    "percentile_25": 2185,
+    "percentile_75": 36876,
+    "percentile_99": 252672
+  },
+  {
+    "year": 2010,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 4097,
+    "percentile_25": 1912,
+    "percentile_75": 27316,
+    "percentile_99": 163895
+  },
+  {
+    "year": 2010,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 16390,
+    "percentile_25": 819,
+    "percentile_75": 81948,
+    "percentile_99": 12588512
+  },
+  {
+    "year": 2010,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 24584,
+    "percentile_25": 5600,
+    "percentile_75": 68290,
+    "percentile_99": 1192337
+  },
+  {
+    "year": 2010,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 73480,
+    "percentile_25": 13659,
+    "percentile_75": 265005,
+    "percentile_99": 2219960
+  },
+  {
+    "year": 2010,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 7129,
+    "percentile_25": 2376,
+    "percentile_75": 46437,
+    "percentile_99": 811281
+  },
+  {
+    "year": 2010,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 2185,
+    "percentile_25": 751,
+    "percentile_75": 6692,
+    "percentile_99": 40974
+  },
+  {
+    "year": 2010,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 121556,
+    "percentile_25": 61461,
+    "percentile_75": 236282,
+    "percentile_99": 737528
+  },
+  {
+    "year": 2010,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 15024,
+    "percentile_25": 6829,
+    "percentile_75": 28818,
+    "percentile_99": 146140
+  },
+  {
+    "year": 2010,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 13248,
+    "percentile_25": 4234,
+    "percentile_75": 26770,
+    "percentile_99": 116639
+  },
+  {
+    "year": 2010,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 6829,
+    "percentile_25": 2185,
+    "percentile_75": 13658,
+    "percentile_99": 81948
+  },
+  {
+    "year": 2010,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 41930,
+    "percentile_25": 9561,
+    "percentile_75": 159525,
+    "percentile_99": 746105
+  },
+  {
+    "year": 2010,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 8195,
+    "percentile_25": 3688,
+    "percentile_75": 32779,
+    "percentile_99": 409738
+  },
+  {
+    "year": 2010,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 27316,
+    "percentile_25": 4097,
+    "percentile_75": 136579,
+    "percentile_99": 2076005
+  },
+  {
+    "year": 2010,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 81948,
+    "percentile_25": 12292,
+    "percentile_75": 277256,
+    "percentile_99": 6140604
+  },
+  {
+    "year": 2010,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 53266,
+    "percentile_25": 13658,
+    "percentile_75": 184382,
+    "percentile_99": 2342335
+  },
+  {
+    "year": 2010,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 177280,
+    "percentile_25": 21989,
+    "percentile_75": 472701,
+    "percentile_99": 7889638
+  },
+  {
+    "year": 2010,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 29668,
+    "percentile_25": 5190,
+    "percentile_75": 139985,
+    "percentile_99": 3837878
+  },
+  {
+    "year": 2010,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 2977,
+    "percentile_25": 956,
+    "percentile_75": 10926,
+    "percentile_99": 81948
+  },
+  {
+    "year": 2010,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 198040,
+    "percentile_25": 102434,
+    "percentile_75": 355106,
+    "percentile_99": 1652609
+  },
+  {
+    "year": 2010,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 15024,
+    "percentile_25": 8468,
+    "percentile_75": 36876,
+    "percentile_99": 416567
+  },
+  {
+    "year": 2010,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 15024,
+    "percentile_25": 6146,
+    "percentile_75": 32779,
+    "percentile_99": 412428
+  },
+  {
+    "year": 2010,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 4097,
+    "percentile_25": 2185,
+    "percentile_75": 13658,
+    "percentile_99": 218527
+  },
+  {
+    "year": 2010,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 94240,
+    "percentile_25": 12033,
+    "percentile_75": 287499,
+    "percentile_99": 1293406
+  },
+  {
+    "year": 2010,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 10926,
+    "percentile_25": 3278,
+    "percentile_75": 35511,
+    "percentile_99": 478027
+  },
+  {
+    "year": 2010,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 34145,
+    "percentile_25": 6829,
+    "percentile_75": 136579,
+    "percentile_99": 5326592
+  },
+  {
+    "year": 2010,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 124287,
+    "percentile_25": 28682,
+    "percentile_75": 396080,
+    "percentile_99": 6159725
+  },
+  {
+    "year": 2010,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 73753,
+    "percentile_25": 20487,
+    "percentile_75": 263598,
+    "percentile_99": 2745243
+  },
+  {
+    "year": 2010,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 324649,
+    "percentile_25": 110342,
+    "percentile_75": 731655,
+    "percentile_99": 12057355
+  },
+  {
+    "year": 2010,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 48520,
+    "percentile_25": 10735,
+    "percentile_75": 209649,
+    "percentile_99": 4302247
+  },
+  {
+    "year": 2010,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 4234,
+    "percentile_25": 1229,
+    "percentile_75": 12948,
+    "percentile_99": 79489
+  },
+  {
+    "year": 2010,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 152969,
+    "percentile_25": 80582,
+    "percentile_75": 266330,
+    "percentile_99": 1350769
+  },
+  {
+    "year": 2010,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 18028,
+    "percentile_25": 8195,
+    "percentile_75": 40974,
+    "percentile_99": 225356
+  },
+  {
+    "year": 2010,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 18575,
+    "percentile_25": 8058,
+    "percentile_75": 35511,
+    "percentile_99": 221258
+  },
+  {
+    "year": 2010,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 7102,
+    "percentile_25": 2732,
+    "percentile_75": 19121,
+    "percentile_99": 260866
+  },
+  {
+    "year": 2010,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 115546,
+    "percentile_25": 27316,
+    "percentile_75": 246539,
+    "percentile_99": 1502372
+  },
+  {
+    "year": 2013,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 10183,
+    "percentile_25": 2546,
+    "percentile_75": 28002,
+    "percentile_99": 509133
+  },
+  {
+    "year": 2013,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 34366,
+    "percentile_25": 6364,
+    "percentile_75": 159104,
+    "percentile_99": 3818499
+  },
+  {
+    "year": 2013,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 101827,
+    "percentile_25": 21638,
+    "percentile_75": 381850,
+    "percentile_99": 7382432
+  },
+  {
+    "year": 2013,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 75097,
+    "percentile_25": 17820,
+    "percentile_75": 248202,
+    "percentile_99": 2736591
+  },
+  {
+    "year": 2013,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 226233,
+    "percentile_25": 37421,
+    "percentile_75": 563356,
+    "percentile_99": 10801261
+  },
+  {
+    "year": 2013,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 45567,
+    "percentile_25": 9419,
+    "percentile_75": 212181,
+    "percentile_99": 4416731
+  },
+  {
+    "year": 2013,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 2928,
+    "percentile_25": 878,
+    "percentile_75": 8528,
+    "percentile_99": 55750
+  },
+  {
+    "year": 2013,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 146376,
+    "percentile_25": 77643,
+    "percentile_75": 250748,
+    "percentile_99": 939351
+  },
+  {
+    "year": 2013,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 21638,
+    "percentile_25": 7637,
+    "percentile_75": 45822,
+    "percentile_99": 264749
+  },
+  {
+    "year": 2013,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 18965,
+    "percentile_25": 7612,
+    "percentile_75": 35639,
+    "percentile_99": 199835
+  },
+  {
+    "year": 2013,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 5091,
+    "percentile_25": 1527,
+    "percentile_75": 12728,
+    "percentile_99": 364030
+  },
+  {
+    "year": 2013,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 76879,
+    "percentile_25": 16547,
+    "percentile_75": 206199,
+    "percentile_99": 1056451
+  },
+  {
+    "year": 2013,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 3818,
+    "percentile_25": 891,
+    "percentile_75": 12728,
+    "percentile_99": 318208
+  },
+  {
+    "year": 2013,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 8401,
+    "percentile_25": 1655,
+    "percentile_75": 29275,
+    "percentile_99": 2291099
+  },
+  {
+    "year": 2013,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 19092,
+    "percentile_25": 5091,
+    "percentile_75": 43276,
+    "percentile_99": 496405
+  },
+  {
+    "year": 2013,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 24184,
+    "percentile_25": 6619,
+    "percentile_75": 63642,
+    "percentile_99": 560047
+  },
+  {
+    "year": 2013,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 67727,
+    "percentile_25": 9802,
+    "percentile_75": 227710,
+    "percentile_99": 1704323
+  },
+  {
+    "year": 2013,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 10565,
+    "percentile_25": 2546,
+    "percentile_75": 35003,
+    "percentile_99": 430218
+  },
+  {
+    "year": 2013,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 1846,
+    "percentile_25": 764,
+    "percentile_75": 5091,
+    "percentile_99": 28002
+  },
+  {
+    "year": 2013,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 114555,
+    "percentile_25": 52186,
+    "percentile_75": 183288,
+    "percentile_99": 636417
+  },
+  {
+    "year": 2013,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 19092,
+    "percentile_25": 7510,
+    "percentile_75": 39458,
+    "percentile_99": 120919
+  },
+  {
+    "year": 2013,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 16547,
+    "percentile_25": 6364,
+    "percentile_75": 35639,
+    "percentile_99": 124738
+  },
+  {
+    "year": 2013,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 1655,
+    "percentile_25": 840,
+    "percentile_75": 5091,
+    "percentile_99": 38185
+  },
+  {
+    "year": 2013,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 33094,
+    "percentile_25": 7942,
+    "percentile_75": 120919,
+    "percentile_99": 530135
+  },
+  {
+    "year": 2013,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 6364,
+    "percentile_25": 2291,
+    "percentile_75": 15274,
+    "percentile_99": 95462
+  },
+  {
+    "year": 2013,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 28002,
+    "percentile_25": 3437,
+    "percentile_75": 137466,
+    "percentile_99": 3818499
+  },
+  {
+    "year": 2013,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 25457,
+    "percentile_25": 12728,
+    "percentile_75": 229110,
+    "percentile_99": 1909250
+  },
+  {
+    "year": 2013,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 20493,
+    "percentile_25": 3818,
+    "percentile_75": 63642,
+    "percentile_99": 343665
+  },
+  {
+    "year": 2013,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 50111,
+    "percentile_25": 10692,
+    "percentile_75": 245402,
+    "percentile_99": 1579331
+  },
+  {
+    "year": 2013,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 10183,
+    "percentile_25": 1928,
+    "percentile_75": 38185,
+    "percentile_99": 667728
+  },
+  {
+    "year": 2013,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 2037,
+    "percentile_25": 496,
+    "percentile_75": 6364,
+    "percentile_99": 35639
+  },
+  {
+    "year": 2013,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 159104,
+    "percentile_25": 87825,
+    "percentile_75": 229110,
+    "percentile_99": 674602
+  },
+  {
+    "year": 2013,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 16547,
+    "percentile_25": 6364,
+    "percentile_75": 30548,
+    "percentile_99": 124738
+  },
+  {
+    "year": 2013,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 15274,
+    "percentile_25": 6364,
+    "percentile_75": 29275,
+    "percentile_99": 133647
+  },
+  {
+    "year": 2013,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 6364,
+    "percentile_25": 2546,
+    "percentile_75": 12728,
+    "percentile_99": 76370
+  },
+  {
+    "year": 2013,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 31821,
+    "percentile_25": 6364,
+    "percentile_75": 145918,
+    "percentile_99": 645963
+  },
+  {
+    "year": 2013,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 10183,
+    "percentile_25": 1782,
+    "percentile_75": 25457,
+    "percentile_99": 254567
+  },
+  {
+    "year": 2013,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 20365,
+    "percentile_25": 6110,
+    "percentile_75": 101827,
+    "percentile_99": 1781966
+  },
+  {
+    "year": 2013,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 48368,
+    "percentile_25": 10183,
+    "percentile_75": 190925,
+    "percentile_99": 3818499
+  },
+  {
+    "year": 2013,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 55368,
+    "percentile_25": 14001,
+    "percentile_75": 215109,
+    "percentile_99": 1484123
+  },
+  {
+    "year": 2013,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 105263,
+    "percentile_25": 19092,
+    "percentile_75": 505442,
+    "percentile_99": 6220335
+  },
+  {
+    "year": 2013,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 33603,
+    "percentile_25": 8401,
+    "percentile_75": 171832,
+    "percentile_99": 2897286
+  },
+  {
+    "year": 2013,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 2546,
+    "percentile_25": 866,
+    "percentile_75": 8910,
+    "percentile_99": 53841
+  },
+  {
+    "year": 2013,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 197289,
+    "percentile_25": 101827,
+    "percentile_75": 350029,
+    "percentile_99": 1781966
+  },
+  {
+    "year": 2013,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 20365,
+    "percentile_25": 7764,
+    "percentile_75": 54732,
+    "percentile_99": 248202
+  },
+  {
+    "year": 2013,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 17056,
+    "percentile_25": 7892,
+    "percentile_75": 39458,
+    "percentile_99": 197798
+  },
+  {
+    "year": 2013,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 5091,
+    "percentile_25": 891,
+    "percentile_75": 12728,
+    "percentile_99": 50913
+  },
+  {
+    "year": 2013,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 54732,
+    "percentile_25": 11455,
+    "percentile_75": 232928,
+    "percentile_99": 1193281
+  },
+  {
+    "year": 2013,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 11455,
+    "percentile_25": 3437,
+    "percentile_75": 31821,
+    "percentile_99": 684784
+  },
+  {
+    "year": 2013,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 38185,
+    "percentile_25": 7637,
+    "percentile_75": 190925,
+    "percentile_99": 4200349
+  },
+  {
+    "year": 2013,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 127283,
+    "percentile_25": 28002,
+    "percentile_75": 394578,
+    "percentile_99": 8002301
+  },
+  {
+    "year": 2013,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 96735,
+    "percentile_25": 25202,
+    "percentile_75": 295297,
+    "percentile_99": 3105713
+  },
+  {
+    "year": 2013,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 301661,
+    "percentile_25": 96481,
+    "percentile_75": 748362,
+    "percentile_99": 12765752
+  },
+  {
+    "year": 2013,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 62369,
+    "percentile_25": 12728,
+    "percentile_75": 260931,
+    "percentile_99": 5093432
+  },
+  {
+    "year": 2013,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 3437,
+    "percentile_25": 1018,
+    "percentile_75": 9674,
+    "percentile_99": 63642
+  },
+  {
+    "year": 2013,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 150194,
+    "percentile_25": 80188,
+    "percentile_75": 250748,
+    "percentile_99": 953352
+  },
+  {
+    "year": 2013,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 22911,
+    "percentile_25": 8910,
+    "percentile_75": 45822,
+    "percentile_99": 360212
+  },
+  {
+    "year": 2013,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 19220,
+    "percentile_25": 7892,
+    "percentile_75": 36912,
+    "percentile_99": 233399
+  },
+  {
+    "year": 2013,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 6364,
+    "percentile_25": 1909,
+    "percentile_75": 15274,
+    "percentile_99": 509133
+  },
+  {
+    "year": 2013,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 104627,
+    "percentile_25": 23038,
+    "percentile_75": 229110,
+    "percentile_99": 1165915
+  },
+  {
+    "year": 2016,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 10484,
+    "percentile_25": 2467,
+    "percentile_75": 33301,
+    "percentile_99": 740023
+  },
+  {
+    "year": 2016,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 30834,
+    "percentile_25": 6167,
+    "percentile_75": 155405,
+    "percentile_99": 6166855
+  },
+  {
+    "year": 2016,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 140604,
+    "percentile_25": 35768,
+    "percentile_75": 616685,
+    "percentile_99": 12950395
+  },
+  {
+    "year": 2016,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 74002,
+    "percentile_25": 18501,
+    "percentile_75": 267641,
+    "percentile_99": 2832190
+  },
+  {
+    "year": 2016,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 233724,
+    "percentile_25": 35658,
+    "percentile_75": 599665,
+    "percentile_99": 13201386
+  },
+  {
+    "year": 2016,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 49335,
+    "percentile_25": 9867,
+    "percentile_75": 218307,
+    "percentile_99": 6811291
+  },
+  {
+    "year": 2016,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 2837,
+    "percentile_25": 863,
+    "percentile_75": 8140,
+    "percentile_99": 53035
+  },
+  {
+    "year": 2016,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 136904,
+    "percentile_25": 72769,
+    "percentile_75": 240507,
+    "percentile_99": 1110034
+  },
+  {
+    "year": 2016,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 23434,
+    "percentile_25": 10237,
+    "percentile_75": 51185,
+    "percentile_99": 271342
+  },
+  {
+    "year": 2016,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 20967,
+    "percentile_25": 9867,
+    "percentile_75": 43785,
+    "percentile_99": 251608
+  },
+  {
+    "year": 2016,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 6167,
+    "percentile_25": 2220,
+    "percentile_75": 19734,
+    "percentile_99": 308343
+  },
+  {
+    "year": 2016,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 74002,
+    "percentile_25": 16034,
+    "percentile_75": 199436,
+    "percentile_99": 1135935
+  },
+  {
+    "year": 2016,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 4687,
+    "percentile_25": 1110,
+    "percentile_75": 13567,
+    "percentile_99": 209673
+  },
+  {
+    "year": 2016,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 9250,
+    "percentile_25": 3083,
+    "percentile_75": 55502,
+    "percentile_99": 925028
+  },
+  {
+    "year": 2016,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 33301,
+    "percentile_25": 16034,
+    "percentile_75": 123337,
+    "percentile_99": 801691
+  },
+  {
+    "year": 2016,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 30464,
+    "percentile_25": 7400,
+    "percentile_75": 111003,
+    "percentile_99": 997797
+  },
+  {
+    "year": 2016,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 57426,
+    "percentile_25": 10348,
+    "percentile_75": 228050,
+    "percentile_99": 2090773
+  },
+  {
+    "year": 2016,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 14800,
+    "percentile_25": 3330,
+    "percentile_75": 62655,
+    "percentile_99": 884820
+  },
+  {
+    "year": 2016,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 1690,
+    "percentile_25": 493,
+    "percentile_75": 5057,
+    "percentile_99": 40701
+  },
+  {
+    "year": 2016,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 96203,
+    "percentile_25": 55502,
+    "percentile_75": 183772,
+    "percentile_99": 568584
+  },
+  {
+    "year": 2016,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 24667,
+    "percentile_25": 11224,
+    "percentile_75": 51802,
+    "percentile_99": 276275
+  },
+  {
+    "year": 2016,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 23434,
+    "percentile_25": 11224,
+    "percentile_75": 46868,
+    "percentile_99": 225423
+  },
+  {
+    "year": 2016,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 3083,
+    "percentile_25": 913,
+    "percentile_75": 4933,
+    "percentile_99": 37001
+  },
+  {
+    "year": 2016,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 38691,
+    "percentile_25": 11840,
+    "percentile_75": 119452,
+    "percentile_99": 604845
+  },
+  {
+    "year": 2016,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 6784,
+    "percentile_25": 863,
+    "percentile_75": 27134,
+    "percentile_99": 709188
+  },
+  {
+    "year": 2016,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 13567,
+    "percentile_25": 617,
+    "percentile_75": 197339,
+    "percentile_99": 9250282
+  },
+  {
+    "year": 2016,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 23434,
+    "percentile_25": 4933,
+    "percentile_75": 215840,
+    "percentile_99": 6409829
+  },
+  {
+    "year": 2016,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 28368,
+    "percentile_25": 10607,
+    "percentile_75": 69069,
+    "percentile_99": 1790855
+  },
+  {
+    "year": 2016,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 67169,
+    "percentile_25": 11162,
+    "percentile_75": 265199,
+    "percentile_99": 4367366
+  },
+  {
+    "year": 2016,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 13320,
+    "percentile_25": 3577,
+    "percentile_75": 49335,
+    "percentile_99": 2152232
+  },
+  {
+    "year": 2016,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 2097,
+    "percentile_25": 592,
+    "percentile_75": 6044,
+    "percentile_99": 37001
+  },
+  {
+    "year": 2016,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 122104,
+    "percentile_25": 74002,
+    "percentile_75": 212140,
+    "percentile_99": 814025
+  },
+  {
+    "year": 2016,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 22201,
+    "percentile_25": 9867,
+    "percentile_75": 49335,
+    "percentile_99": 255308
+  },
+  {
+    "year": 2016,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 19487,
+    "percentile_25": 9867,
+    "percentile_75": 37001,
+    "percentile_99": 224474
+  },
+  {
+    "year": 2016,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 2467,
+    "percentile_25": 1233,
+    "percentile_75": 4933,
+    "percentile_99": 123337
+  },
+  {
+    "year": 2016,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 37001,
+    "percentile_25": 6907,
+    "percentile_75": 151705,
+    "percentile_99": 758030
+  },
+  {
+    "year": 2016,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 6167,
+    "percentile_25": 1233,
+    "percentile_75": 19734,
+    "percentile_99": 296009
+  },
+  {
+    "year": 2016,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 24667,
+    "percentile_25": 6167,
+    "percentile_75": 123337,
+    "percentile_99": 3330101
+  },
+  {
+    "year": 2016,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 107303,
+    "percentile_25": 24667,
+    "percentile_75": 616685,
+    "percentile_99": 3220331
+  },
+  {
+    "year": 2016,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 64135,
+    "percentile_25": 11470,
+    "percentile_75": 245564,
+    "percentile_99": 2577745
+  },
+  {
+    "year": 2016,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 164533,
+    "percentile_25": 20992,
+    "percentile_75": 617919,
+    "percentile_99": 9221421
+  },
+  {
+    "year": 2016,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 34781,
+    "percentile_25": 8387,
+    "percentile_75": 191543,
+    "percentile_99": 3687182
+  },
+  {
+    "year": 2016,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 2923,
+    "percentile_25": 740,
+    "percentile_75": 8634,
+    "percentile_99": 53726
+  },
+  {
+    "year": 2016,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 185006,
+    "percentile_25": 93736,
+    "percentile_75": 333010,
+    "percentile_99": 1356708
+  },
+  {
+    "year": 2016,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 23434,
+    "percentile_25": 8387,
+    "percentile_75": 49458,
+    "percentile_99": 425266
+  },
+  {
+    "year": 2016,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 20104,
+    "percentile_25": 10212,
+    "percentile_75": 41750,
+    "percentile_99": 320676
+  },
+  {
+    "year": 2016,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 8634,
+    "percentile_25": 3823,
+    "percentile_75": 30834,
+    "percentile_99": 740023
+  },
+  {
+    "year": 2016,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 69809,
+    "percentile_25": 14307,
+    "percentile_75": 244947,
+    "percentile_99": 979297
+  },
+  {
+    "year": 2016,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 12334,
+    "percentile_25": 3700,
+    "percentile_75": 39468,
+    "percentile_99": 863360
+  },
+  {
+    "year": 2016,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 37001,
+    "percentile_25": 7400,
+    "percentile_75": 185006,
+    "percentile_99": 6166855
+  },
+  {
+    "year": 2016,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 161572,
+    "percentile_25": 37001,
+    "percentile_75": 654920,
+    "percentile_99": 14800451
+  },
+  {
+    "year": 2016,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 94970,
+    "percentile_25": 22201,
+    "percentile_75": 334244,
+    "percentile_99": 3009425
+  },
+  {
+    "year": 2016,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 326573,
+    "percentile_25": 93619,
+    "percentile_75": 814777,
+    "percentile_99": 16184293
+  },
+  {
+    "year": 2016,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 63424,
+    "percentile_25": 12950,
+    "percentile_75": 273192,
+    "percentile_99": 7714735
+  },
+  {
+    "year": 2016,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 3330,
+    "percentile_25": 1048,
+    "percentile_75": 9867,
+    "percentile_99": 61669
+  },
+  {
+    "year": 2016,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 141838,
+    "percentile_25": 74002,
+    "percentile_75": 238041,
+    "percentile_99": 1140868
+  },
+  {
+    "year": 2016,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 23557,
+    "percentile_25": 10360,
+    "percentile_75": 52542,
+    "percentile_99": 257775
+  },
+  {
+    "year": 2016,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 20967,
+    "percentile_25": 9374,
+    "percentile_75": 44401,
+    "percentile_99": 257775
+  },
+  {
+    "year": 2016,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 9250,
+    "percentile_25": 3083,
+    "percentile_75": 27134,
+    "percentile_99": 308343
+  },
+  {
+    "year": 2016,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 91417,
+    "percentile_25": 20967,
+    "percentile_75": 215840,
+    "percentile_99": 1258038
+  },
+  {
+    "year": 2019,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 10433,
+    "percentile_25": 2898,
+    "percentile_75": 33617,
+    "percentile_99": 515846
+  },
+  {
+    "year": 2019,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 28980,
+    "percentile_25": 4289,
+    "percentile_75": 119398,
+    "percentile_99": 6375629
+  },
+  {
+    "year": 2019,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 127513,
+    "percentile_25": 30139,
+    "percentile_75": 579603,
+    "percentile_99": 16228874
+  },
+  {
+    "year": 2019,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 75348,
+    "percentile_25": 18547,
+    "percentile_75": 268936,
+    "percentile_99": 3066098
+  },
+  {
+    "year": 2019,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 263719,
+    "percentile_25": 40230,
+    "percentile_75": 634433,
+    "percentile_99": 13487354
+  },
+  {
+    "year": 2019,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 46368,
+    "percentile_25": 9042,
+    "percentile_75": 208657,
+    "percentile_99": 6445181
+  },
+  {
+    "year": 2019,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 3130,
+    "percentile_25": 927,
+    "percentile_75": 9042,
+    "percentile_99": 56569
+  },
+  {
+    "year": 2019,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 156493,
+    "percentile_25": 78826,
+    "percentile_75": 268936,
+    "percentile_99": 985325
+  },
+  {
+    "year": 2019,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 25503,
+    "percentile_25": 9853,
+    "percentile_75": 57960,
+    "percentile_99": 296757
+  },
+  {
+    "year": 2019,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 20866,
+    "percentile_25": 9274,
+    "percentile_75": 46368,
+    "percentile_99": 280528
+  },
+  {
+    "year": 2019,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 5796,
+    "percentile_25": 2087,
+    "percentile_75": 17968,
+    "percentile_99": 347762
+  },
+  {
+    "year": 2019,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 75348,
+    "percentile_25": 15244,
+    "percentile_75": 224063,
+    "percentile_99": 1082698
+  },
+  {
+    "year": 2019,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 6376,
+    "percentile_25": 2202,
+    "percentile_75": 23184,
+    "percentile_99": 347762
+  },
+  {
+    "year": 2019,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 13910,
+    "percentile_25": 2318,
+    "percentile_75": 42891,
+    "percentile_99": 927364
+  },
+  {
+    "year": 2019,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 100851,
+    "percentile_25": 19706,
+    "percentile_75": 127513,
+    "percentile_99": 5222220
+  },
+  {
+    "year": 2019,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 40572,
+    "percentile_25": 11592,
+    "percentile_75": 110125,
+    "percentile_99": 1043285
+  },
+  {
+    "year": 2019,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 61438,
+    "percentile_25": 10086,
+    "percentile_75": 243908,
+    "percentile_99": 2477222
+  },
+  {
+    "year": 2019,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 17388,
+    "percentile_25": 4347,
+    "percentile_75": 65495,
+    "percentile_99": 1036330
+  },
+  {
+    "year": 2019,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 1507,
+    "percentile_25": 464,
+    "percentile_75": 5680,
+    "percentile_99": 38833
+  },
+  {
+    "year": 2019,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 134468,
+    "percentile_25": 67234,
+    "percentile_75": 217931,
+    "percentile_99": 583080
+  },
+  {
+    "year": 2019,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 34776,
+    "percentile_25": 11012,
+    "percentile_75": 70712,
+    "percentile_99": 337329
+  },
+  {
+    "year": 2019,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 19706,
+    "percentile_25": 8926,
+    "percentile_75": 53323,
+    "percentile_99": 301625
+  },
+  {
+    "year": 2019,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 2666,
+    "percentile_25": 1391,
+    "percentile_75": 6955,
+    "percentile_99": 99692
+  },
+  {
+    "year": 2019,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 31878,
+    "percentile_25": 6376,
+    "percentile_75": 129947,
+    "percentile_99": 683931
+  },
+  {
+    "year": 2019,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 9042,
+    "percentile_25": 2898,
+    "percentile_75": 20866,
+    "percentile_99": 347762
+  },
+  {
+    "year": 2019,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 28980,
+    "percentile_25": 348,
+    "percentile_75": 92736,
+    "percentile_99": 1738808
+  },
+  {
+    "year": 2019,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 76855,
+    "percentile_25": 76739,
+    "percentile_75": 289801,
+    "percentile_99": 2318411
+  },
+  {
+    "year": 2019,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 35935,
+    "percentile_25": 10433,
+    "percentile_75": 111284,
+    "percentile_99": 1960216
+  },
+  {
+    "year": 2019,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 83231,
+    "percentile_25": 14838,
+    "percentile_75": 341143,
+    "percentile_99": 2583405
+  },
+  {
+    "year": 2019,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 17388,
+    "percentile_25": 3791,
+    "percentile_75": 75348,
+    "percentile_99": 1913268
+  },
+  {
+    "year": 2019,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 2202,
+    "percentile_25": 811,
+    "percentile_75": 7767,
+    "percentile_99": 54483
+  },
+  {
+    "year": 2019,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 150697,
+    "percentile_25": 104328,
+    "percentile_75": 249229,
+    "percentile_99": 811444
+  },
+  {
+    "year": 2019,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 20402,
+    "percentile_25": 9274,
+    "percentile_75": 37095,
+    "percentile_99": 381379
+  },
+  {
+    "year": 2019,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 19706,
+    "percentile_25": 8926,
+    "percentile_75": 33617,
+    "percentile_99": 182807
+  },
+  {
+    "year": 2019,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 4869,
+    "percentile_25": 2318,
+    "percentile_75": 13910,
+    "percentile_99": 208657
+  },
+  {
+    "year": 2019,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 46368,
+    "percentile_25": 11360,
+    "percentile_75": 177474,
+    "percentile_99": 865579
+  },
+  {
+    "year": 2019,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 9737,
+    "percentile_25": 2318,
+    "percentile_75": 39413,
+    "percentile_99": 579603
+  },
+  {
+    "year": 2019,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 28980,
+    "percentile_25": 5796,
+    "percentile_75": 115921,
+    "percentile_99": 4057219
+  },
+  {
+    "year": 2019,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 86940,
+    "percentile_25": 9274,
+    "percentile_75": 336170,
+    "percentile_99": 17388079
+  },
+  {
+    "year": 2019,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 54483,
+    "percentile_25": 12172,
+    "percentile_75": 202281,
+    "percentile_99": 1957898
+  },
+  {
+    "year": 2019,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 195210,
+    "percentile_25": 19882,
+    "percentile_75": 678135,
+    "percentile_99": 13293303
+  },
+  {
+    "year": 2019,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 33617,
+    "percentile_25": 5124,
+    "percentile_75": 148378,
+    "percentile_99": 4862634
+  },
+  {
+    "year": 2019,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 2782,
+    "percentile_25": 811,
+    "percentile_75": 8462,
+    "percentile_99": 69552
+  },
+  {
+    "year": 2019,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 208657,
+    "percentile_25": 115921,
+    "percentile_75": 362831,
+    "percentile_99": 1205574
+  },
+  {
+    "year": 2019,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 22025,
+    "percentile_25": 9274,
+    "percentile_75": 51585,
+    "percentile_99": 445135
+  },
+  {
+    "year": 2019,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 20866,
+    "percentile_25": 9505,
+    "percentile_75": 48687,
+    "percentile_99": 445135
+  },
+  {
+    "year": 2019,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 3478,
+    "percentile_25": 1159,
+    "percentile_75": 11592,
+    "percentile_99": 208657
+  },
+  {
+    "year": 2019,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 82304,
+    "percentile_25": 12751,
+    "percentile_75": 267776,
+    "percentile_99": 1222962
+  },
+  {
+    "year": 2019,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 11592,
+    "percentile_25": 3478,
+    "percentile_75": 34776,
+    "percentile_99": 521642
+  },
+  {
+    "year": 2019,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 34776,
+    "percentile_25": 5216,
+    "percentile_75": 168085,
+    "percentile_99": 6723391
+  },
+  {
+    "year": 2019,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 142582,
+    "percentile_25": 34776,
+    "percentile_75": 664225,
+    "percentile_99": 17172467
+  },
+  {
+    "year": 2019,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 92736,
+    "percentile_25": 25387,
+    "percentile_75": 338488,
+    "percentile_99": 3251571
+  },
+  {
+    "year": 2019,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 355134,
+    "percentile_25": 101430,
+    "percentile_75": 832553,
+    "percentile_99": 16347113
+  },
+  {
+    "year": 2019,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 58830,
+    "percentile_25": 11476,
+    "percentile_75": 268936,
+    "percentile_99": 7184986
+  },
+  {
+    "year": 2019,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 3709,
+    "percentile_25": 1159,
+    "percentile_75": 9737,
+    "percentile_99": 59583
+  },
+  {
+    "year": 2019,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 150697,
+    "percentile_25": 73030,
+    "percentile_75": 268936,
+    "percentile_99": 981847
+  },
+  {
+    "year": 2019,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 26662,
+    "percentile_25": 10433,
+    "percentile_75": 57149,
+    "percentile_99": 270095
+  },
+  {
+    "year": 2019,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 20866,
+    "percentile_25": 9158,
+    "percentile_75": 46368,
+    "percentile_99": 270790
+  },
+  {
+    "year": 2019,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 8694,
+    "percentile_25": 2898,
+    "percentile_75": 23184,
+    "percentile_99": 391811
+  },
+  {
+    "year": 2019,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 91577,
+    "percentile_25": 19706,
+    "percentile_75": 236478,
+    "percentile_99": 1095449
+  },
+  {
+    "year": 2022,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 9700,
+    "percentile_25": 2300,
+    "percentile_75": 39000,
+    "percentile_99": 625000
+  },
+  {
+    "year": 2022,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 15000,
+    "percentile_25": 2500,
+    "percentile_75": 134000,
+    "percentile_99": 5240000
+  },
+  {
+    "year": 2022,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 150000,
+    "percentile_25": 34000,
+    "percentile_75": 540000,
+    "percentile_99": 13500000
+  },
+  {
+    "year": 2022,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 87000,
+    "percentile_25": 20000,
+    "percentile_75": 310000,
+    "percentile_99": 3326000
+  },
+  {
+    "year": 2022,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 332400,
+    "percentile_25": 53110,
+    "percentile_75": 809460,
+    "percentile_99": 14230000
+  },
+  {
+    "year": 2022,
+    "racecl4": "All",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 52000,
+    "percentile_25": 10000,
+    "percentile_75": 253000,
+    "percentile_99": 6810001
+  },
+  {
+    "year": 2022,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 2700,
+    "percentile_25": 800,
+    "percentile_75": 7000,
+    "percentile_99": 52500
+  },
+  {
+    "year": 2022,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 156000,
+    "percentile_25": 83000,
+    "percentile_75": 260000,
+    "percentile_99": 1100000
+  },
+  {
+    "year": 2022,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 24500,
+    "percentile_25": 10000,
+    "percentile_75": 60000,
+    "percentile_99": 312000
+  },
+  {
+    "year": 2022,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 20000,
+    "percentile_25": 8400,
+    "percentile_75": 42000,
+    "percentile_99": 290000
+  },
+  {
+    "year": 2022,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 4300,
+    "percentile_25": 1500,
+    "percentile_75": 15000,
+    "percentile_99": 500000
+  },
+  {
+    "year": 2022,
+    "racecl4": "All",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 80220,
+    "percentile_25": 15400,
+    "percentile_75": 211000,
+    "percentile_99": 1200000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 6000,
+    "percentile_25": 1200,
+    "percentile_75": 20000,
+    "percentile_99": 300000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 5000,
+    "percentile_25": 600,
+    "percentile_75": 20000,
+    "percentile_99": 600000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 14000,
+    "percentile_25": 5000,
+    "percentile_75": 29000,
+    "percentile_99": 376000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 39000,
+    "percentile_25": 8000,
+    "percentile_75": 102000,
+    "percentile_99": 1310000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 106400,
+    "percentile_25": 11700,
+    "percentile_75": 366450,
+    "percentile_99": 2587500
+  },
+  {
+    "year": 2022,
+    "racecl4": "Black",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 16500,
+    "percentile_25": 4000,
+    "percentile_75": 54400,
+    "percentile_99": 767500
+  },
+  {
+    "year": 2022,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 1700,
+    "percentile_25": 480,
+    "percentile_75": 5000,
+    "percentile_99": 36000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 111000,
+    "percentile_25": 60000,
+    "percentile_75": 208000,
+    "percentile_99": 500000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 26000,
+    "percentile_25": 10000,
+    "percentile_75": 71000,
+    "percentile_99": 303000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 20020,
+    "percentile_25": 6530,
+    "percentile_75": 55800,
+    "percentile_99": 312000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 3500,
+    "percentile_25": 800,
+    "percentile_75": 8800,
+    "percentile_99": 142000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Black",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 44900,
+    "percentile_25": 8950,
+    "percentile_75": 155000,
+    "percentile_99": 558140
+  },
+  {
+    "year": 2022,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 10000,
+    "percentile_25": 5000,
+    "percentile_75": 50000,
+    "percentile_99": 141000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 10000,
+    "percentile_25": 3000,
+    "percentile_75": 37000,
+    "percentile_99": 780000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 18000,
+    "percentile_25": 2500,
+    "percentile_75": 120000,
+    "percentile_99": 700000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 55600,
+    "percentile_25": 17000,
+    "percentile_75": 135500,
+    "percentile_99": 1070000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 102770,
+    "percentile_25": 17670,
+    "percentile_75": 399430,
+    "percentile_99": 2106230
+  },
+  {
+    "year": 2022,
+    "racecl4": "Hispanic",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 24500,
+    "percentile_25": 5700,
+    "percentile_75": 75200,
+    "percentile_99": 1084000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 1700,
+    "percentile_25": 520,
+    "percentile_75": 4100,
+    "percentile_99": 38000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 175000,
+    "percentile_25": 112000,
+    "percentile_75": 230000,
+    "percentile_99": 733000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 13000,
+    "percentile_25": 6000,
+    "percentile_75": 43000,
+    "percentile_99": 121000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 17000,
+    "percentile_25": 8400,
+    "percentile_75": 35000,
+    "percentile_99": 125980
+  },
+  {
+    "year": 2022,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 4000,
+    "percentile_25": 2600,
+    "percentile_75": 8000,
+    "percentile_99": 100000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Hispanic",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 39900,
+    "percentile_25": 6650,
+    "percentile_75": 189900,
+    "percentile_99": 575000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 9700,
+    "percentile_25": 1500,
+    "percentile_75": 57000,
+    "percentile_99": 875000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 18000,
+    "percentile_25": 3900,
+    "percentile_75": 100000,
+    "percentile_99": 3350000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 70000,
+    "percentile_25": 20000,
+    "percentile_75": 300500,
+    "percentile_99": 9070000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 60000,
+    "percentile_25": 11700,
+    "percentile_75": 250000,
+    "percentile_99": 2795000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 260001,
+    "percentile_25": 36300,
+    "percentile_75": 860900,
+    "percentile_99": 11452500
+  },
+  {
+    "year": 2022,
+    "racecl4": "Other",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 34000,
+    "percentile_25": 5900,
+    "percentile_75": 190550,
+    "percentile_99": 4832150
+  },
+  {
+    "year": 2022,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 2970,
+    "percentile_25": 810,
+    "percentile_75": 7000,
+    "percentile_99": 40000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 200000,
+    "percentile_25": 110000,
+    "percentile_75": 360000,
+    "percentile_99": 2200000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 25000,
+    "percentile_25": 10000,
+    "percentile_75": 70000,
+    "percentile_99": 362000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 20000,
+    "percentile_25": 7600,
+    "percentile_75": 44400,
+    "percentile_99": 319200
+  },
+  {
+    "year": 2022,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 9500,
+    "percentile_25": 3800,
+    "percentile_75": 14800,
+    "percentile_99": 700000
+  },
+  {
+    "year": 2022,
+    "racecl4": "Other",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 84200,
+    "percentile_25": 14500,
+    "percentile_75": 250000,
+    "percentile_99": 1700000
+  },
+  {
+    "year": 2022,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Cash Value of Whole Life Insurance",
+    "median": 10000,
+    "percentile_25": 2500,
+    "percentile_75": 40000,
+    "percentile_99": 750000
+  },
+  {
+    "year": 2022,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Directly Held Stocks",
+    "median": 20000,
+    "percentile_25": 2500,
+    "percentile_75": 182000,
+    "percentile_99": 5790000
+  },
+  {
+    "year": 2022,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Pooled Investment Fund Assets",
+    "median": 200000,
+    "percentile_25": 52000,
+    "percentile_75": 600000,
+    "percentile_99": 16250000
+  },
+  {
+    "year": 2022,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Quasi-Liquid Retirement Accounts",
+    "median": 100000,
+    "percentile_25": 25000,
+    "percentile_75": 365000,
+    "percentile_99": 3634000
+  },
+  {
+    "year": 2022,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Total Assets",
+    "median": 417400,
+    "percentile_25": 110600,
+    "percentile_75": 1037900,
+    "percentile_99": 16914000
+  },
+  {
+    "year": 2022,
+    "racecl4": "White",
+    "metric_type": "Asset",
+    "metric": "Total Value of Household Stock Holdings",
+    "median": 67800,
+    "percentile_25": 12000,
+    "percentile_75": 322000,
+    "percentile_99": 7226500
+  },
+  {
+    "year": 2022,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Credit Card Balances after Last Payment",
+    "median": 3000,
+    "percentile_25": 1000,
+    "percentile_75": 8000,
+    "percentile_99": 55000
+  },
+  {
+    "year": 2022,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Debt Secured by Primary Residence",
+    "median": 153000,
+    "percentile_25": 82000,
+    "percentile_75": 257000,
+    "percentile_99": 1130000
+  },
+  {
+    "year": 2022,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Education Loans",
+    "median": 25000,
+    "percentile_25": 10000,
+    "percentile_75": 56000,
+    "percentile_99": 397000
+  },
+  {
+    "year": 2022,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Installment Loans",
+    "median": 20000,
+    "percentile_25": 8800,
+    "percentile_75": 41000,
+    "percentile_99": 274200
+  },
+  {
+    "year": 2022,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Other Debts",
+    "median": 4300,
+    "percentile_25": 1500,
+    "percentile_75": 20000,
+    "percentile_99": 1000000
+  },
+  {
+    "year": 2022,
+    "racecl4": "White",
+    "metric_type": "Debt",
+    "metric": "Total Debt",
+    "median": 93900,
+    "percentile_25": 20000,
+    "percentile_75": 222100,
+    "percentile_99": 1260000
+  }
+]
